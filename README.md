@@ -7,8 +7,8 @@ To identify and analyze top-performing products, peak sales periods, seasonal we
 
 📂 Dataset
 
-Sales transactions (April–May 2024)
-Weather data (rainfall, temperature, wind speed)
+- Sales transactions (April–May 2024)
+- Weather data (rainfall, temperature, wind speed)
 
 🛠 Tools Used
 
