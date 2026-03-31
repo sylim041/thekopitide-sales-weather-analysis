@@ -34,4 +34,4 @@ Introduce quick lunch deals to target office workers for CBD outlet during weekd
 📊 Dashboard Preview
 
 🔗 Interactive Dashboard
-👉 View here: [(https://public.tableau.com/views/TheKopiTideDataAnalysis/SalesTrendWeekdaysWeekends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+👉 View here: [View Tableau Dashboard](https://public.tableau.com/views/TheKopiTideDataAnalysis/SalesTrendWeekdaysWeekends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
