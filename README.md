@@ -3,15 +3,15 @@
 📊The Kopi Tide Sales & Weather Analysis
 
 📌 Business Problem
-To identify and analyze top-performing products, peak sales periods, seasonal weather impacts, and customer preferences, so that ‘The Kopi Tide’ can make data-driven decisions to optimize operations, improve customer satisfaction, and maximize revenue growth.
+- To identify and analyze top-performing products, peak sales periods, seasonal weather impacts, and customer preferences, so that ‘The Kopi Tide’ can make data-driven decisions to optimize operations, improve customer satisfaction, and maximize revenue growth.
 
 📂 Dataset
 
-Sales Data 
+🛒 Sales Data 
 - Transaction data for Tanjong Pagar (CBD) and Jurong East (Heartland) outlets from April–May 2024
 - Summary data for both outlets
 
-Weather Data (rainfall, temperature, wind speed)
+☂️ Weather Data (rainfall, temperature, wind speed)
 - Daily weather records for Singapore (Clementi station and Queenstown station) from April–May 2024
 
 ### ⚙️ Setup Instructions
