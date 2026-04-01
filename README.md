@@ -7,13 +7,27 @@ To identify and analyze top-performing products, peak sales periods, seasonal we
 
 📂 Dataset
 
-1. Sales Data 
+Sales Data 
 - Transaction data for Tanjong Pagar (CBD) and Jurong East (Heartland) outlets from April–May 2024
 - Summary data for both outlets
 
-2. Weather Data (rainfall, temperature, wind speed)
+Weather Data (rainfall, temperature, wind speed)
 - Daily weather records for Singapore (Clementi station and Queenstown station) from April–May 2024
 
+### ⚙️ Setup Instructions
+1. Create a BigQuery project
+2. Replace `case-study-490607` in SQL files with your project ID
+3. Upload datasets into:
+   - thekopitide_2024
+   - singapore_weather_2024
+### SQL Workflow
+1. Data Preparation → `01_weather_preparation.sql`
+2. Cleaning → `02_transactions_cleaning.sql`
+3. Organizing → `03_data_integration.sql`
+4. Final Dataset → `04_analysis_base_view.sql`
+5. Analysis → `05_analysis_queries.sql`
+            → `06_menu_analysis.sql`
+   
 📂 Data Source
 
 Sales Data
