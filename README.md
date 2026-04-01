@@ -7,12 +7,16 @@ To identify and analyze top-performing products, peak sales periods, seasonal we
 
 📂 Dataset
 
-- Sales transactions (April–May 2024)
-- Weather data (rainfall, temperature, wind speed)
+1. Sales Data 
+- Transaction data for Tanjong Pagar (CBD) and Jurong East (Heartland) outlets from April–May 2024
+- Summary data for both outlets
+
+2. Weather Data (rainfall, temperature, wind speed)
+- Daily weather records for Singapore (Clementi station and Queenstown station) from April–May 2024
 
 🛠 Tools Used
 
-SQL
+SQL (BigQuery)
 Excel / Python
 Tableau
 
