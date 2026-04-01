@@ -14,6 +14,16 @@ To identify and analyze top-performing products, peak sales periods, seasonal we
 2. Weather Data (rainfall, temperature, wind speed)
 - Daily weather records for Singapore (Clementi station and Queenstown station) from April–May 2024
 
+📂 Data Source
+
+Sales Data
+- Simulated dataset created for analysis
+
+Weather Data
+- Source: Meteorological Service Singapore
+- Dataset: Historical Daily Records (Clementi station and Queenstown station)
+- Link: https://www.weather.gov.sg/climate-historical-daily/
+
 🛠 Tools Used
 
 SQL (BigQuery)
